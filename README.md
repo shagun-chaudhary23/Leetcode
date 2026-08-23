@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0217-contains-duplicate) |
 | [1773-count-items-matching-a-rule](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0242-valid-anagram) |
 | [1859-sorting-the-sentence](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0125-valid-palindrome) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -40,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
