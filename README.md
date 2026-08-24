@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1773-count-items-matching-a-rule](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
