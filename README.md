@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -55,5 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
