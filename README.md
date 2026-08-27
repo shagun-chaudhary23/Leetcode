@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0189-rotate-array) |
+| [2652-sum-multiples](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2652-sum-multiples) |
 ## Matrix
 |  |
 | ------- |
