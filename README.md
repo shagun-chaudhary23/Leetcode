@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0189-rotate-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
