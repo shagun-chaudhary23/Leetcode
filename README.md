@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0189-rotate-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2652-sum-multiples) |
 ## Matrix
