@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3285-find-indices-of-stable-mountains](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3895-count-digit-appearances](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2652-sum-multiples) |
+| [3895-count-digit-appearances](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Matrix
 |  |
 | ------- |
