@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0832-flipping-an-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0832-flipping-an-image) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1773-count-items-matching-a-rule](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0832-flipping-an-image) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bubble Sort
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0832-flipping-an-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0048-rotate-image) |
+| [0832-flipping-an-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0832-flipping-an-image) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Greedy
