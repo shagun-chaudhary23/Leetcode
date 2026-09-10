@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1773-count-items-matching-a-rule](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1854-maximum-population-year](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1854-maximum-population-year) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1854-maximum-population-year) |
+## Prefix Sum
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
