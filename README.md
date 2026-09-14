@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
