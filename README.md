@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
