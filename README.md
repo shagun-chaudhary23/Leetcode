@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1025-divisor-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1025-divisor-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Stack
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0053-maximum-subarray) |
+| [1025-divisor-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1025-divisor-game) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -181,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0836-rectangle-overlap) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
