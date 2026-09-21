@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Stack
@@ -187,9 +189,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1025-divisor-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
