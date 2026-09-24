@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0053-maximum-subarray) |
 | [1025-divisor-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1025-divisor-game) |
+| [1668-maximum-repeating-substring](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
