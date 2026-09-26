@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0118-pascals-triangle) |
 | [1025-divisor-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1025-divisor-game) |
 | [1668-maximum-repeating-substring](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Pigeonhole Principle
