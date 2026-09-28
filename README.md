@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1854-maximum-population-year](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1854-maximum-population-year) |
 ## Dynamic Programming
 |  |
