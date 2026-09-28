@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -184,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
 |  |
 | ------- |
