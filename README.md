@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2315-count-asterisks) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
 | ------- |
