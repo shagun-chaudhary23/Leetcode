@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3285-find-indices-of-stable-mountains](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2315-count-asterisks](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2315-count-asterisks) |
+| [2942-find-words-containing-character](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3110-score-of-a-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
