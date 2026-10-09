@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2315-count-asterisks](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2315-count-asterisks) |
+| [3110-score-of-a-string](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3110-score-of-a-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
