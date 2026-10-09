@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3895-count-digit-appearances](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0509-fibonacci-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
