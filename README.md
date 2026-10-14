@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3099-harshad-number) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3895-count-digit-appearances](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3895-count-digit-appearances) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Game Theory
 |  |
 | ------- |
