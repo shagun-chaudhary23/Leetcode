@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3285-find-indices-of-stable-mountains](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
@@ -299,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
