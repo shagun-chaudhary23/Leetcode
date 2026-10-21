@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3110-score-of-a-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1854-maximum-population-year](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1854-maximum-population-year) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Prefix Sum
 |  |
