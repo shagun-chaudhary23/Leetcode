@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-sorting-the-sentence](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [1903-largest-odd-number-in-string](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1903-largest-odd-number-in-string](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/shagun-chaudhary23/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shagun-chaudhary23/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Game Theory
