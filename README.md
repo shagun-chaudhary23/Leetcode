@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0832-flipping-an-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0832-flipping-an-image) |
 ## Binary Search
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0292-nim-game) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/shagun-chaudhary23/Leetcode/tree/master/0832-flipping-an-image) |
